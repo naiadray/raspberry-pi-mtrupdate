@@ -1,6 +1,6 @@
 # raspberry-pi-mtrupdate
 
-by Thomas Tong ([thomastong.me](http://thomastong.me/))
+by Thomas Tong ([thomastong.me](http://thomastong.me/)), Ray Chiu
 
 Knowing whether Hong Kong MTR is broken down with a shake, written in Python 3.
 
